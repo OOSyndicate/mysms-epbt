@@ -18,7 +18,8 @@ Integration between ePBT with MySMS 15888
 
 
 Fairuz Abd Rahman
-http://www.oosyndicate.com
-http://www.e-kerajaan.com
+- URL : http://www.oosyndicate.com
+- URL : https://www.e-kerajaan.com
 
-Mobile : 0125894445
+- Mobile : 0125894445
+- Email : mofbar@oosyndicate.com
