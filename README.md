@@ -1,7 +1,7 @@
-MySMS-ePBT
+MySMS-ePBT (EPBTONLINE)
 ==========
 
-Integration between ePBT with MySMS 15888
+Integration between ePBT with MySMS 15888 (ePBT Online)
 
 - This script using language ASP (Active Server Pages) with PHP as listener for connect direct to ePBT database
 
@@ -23,3 +23,5 @@ Fairuz Abd Rahman
 
 - Mobile : 0125894445
 - Email : mofbar@oosyndicate.com
+
+#epbtonline
