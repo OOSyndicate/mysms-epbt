@@ -3,6 +3,8 @@ MySMS-ePBT (EPBTONLINE)
 
 Integration between ePBT with MySMS 15888 (ePBT Online)
 
+- Latest system can view at http://i.net.my (Manual : http://wik.i.net.my)
+
 - This script using language ASP (Active Server Pages) with PHP as listener to connect direct to ePBT database
 
 - Script include for modules :
@@ -21,6 +23,7 @@ Integration between ePBT with MySMS 15888 (ePBT Online)
 - Using this script, IT officer must allow IP of location this script to access direct to database ePBT using port 1521
 
 - SMS module for 2-way authentication (public verification)
+
 
 Fairuz Abd Rahman
 - URL : http://www.oosyndicate.com
